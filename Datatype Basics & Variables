@@ -1,0 +1,40 @@
+Variables"
+
+Declaring the data types
+
+Datatype:
+
+Integers : int = ex. 1,2,3,4,....(whole numbers)
+float : floating numbers(decimal numbers) = ex. 3.4,5.6,1.2
+complex : ex: (3+6j) = z=a+bj
+			3= Real part
+			6= Imaginary Part
+			j= Square root of (-1) = i [ Should use only 'j']
+boolean: bool = True or False
+String : Str = Collection of words (' '," ", '''   ''')  
+				Single letter = ' '
+				Words = "  " 
+				Paragraph = '''   '''
+				
+Variables:
+
+int
+float
+complex
+bool
+str
+bytes
+bytearray
+range
+List
+tuple
+set
+dict
+None
+
+Keywords:(shouldnot use below keywords as variable , because these are functions/ datatype declarations)
+
+True,False,None, and, or,not,is,if,else,elif,ifelse,while,for,break,
+continue,in,yield,try,except,finally,raise,assert,import,fromas,class,def,pass,
+global,lambda,del,with
+			

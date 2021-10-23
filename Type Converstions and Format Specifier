@@ -1,0 +1,62 @@
+==>Variables:
+
+Variable = values  ==> ( Dynamically Type = It will automatically detect the Data type ) 
+			(int,str,float....)
+ex:			
+a=5
+print(type(a)) = int
+
+Rules in declaring variables:
+
+* It starts with Alphabets or _ (underscore)
+* Shouldnot contain any space in between the variable ( Ex: emp id , Emp_ID)
+* Shouldnot use special character other than underscore ( ex: %,&,*...)
+* Shouldnot user with Numerical values in variable
+
+==>Type:
+
+To know the type of datatype
+
+Syntax:
+
+print(type(variable))
+
+Ex: 
+
+Age = 33
+print(age)
+print(type(age) 
+
+Output: 
+33
+<class 'int'>
+
+==>Type Conversion:
+
++ --> Can use only for string
+, --> Can use for both string and Int
+
+age = 29
+name = "Arvi"
+height=5.6
+
+print("My name is",name)
+print("My age is",age)
+
+print("My name is",name,"and","My age is",age)
+
+==>Format Specifier:
+
+%s ==> string
+%d ==> int
+%f ==> float
+
+==> Other way of Format Specifier
+
+print("My name is {} my age is {}".format(name,age))
+print("My name is {} my age is {}".format(age,name))
+
+print("My name is {name} and age is {age}")
+print(f"My name is {name} and age is {age}")
+
+

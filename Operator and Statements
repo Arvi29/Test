@@ -1,0 +1,58 @@
+==>Operators:
+
+id = 222;
+
+= --> Assignment Operators
+
+==>Relational Operators:
+
+< 	--> Less Than
+> 	--> Greater than
+<=	--> Lesser than or equal to 
+>=	--> Greater than or equal to
+==	--> Equals
+!= 	--> Not Equals
+
+
+Logical operators:
+
+&&	--> And
+|| 	--> Or
+&&	-->Both true
+||	--> Any one conditions True
+
+==>Statements:
+
+* Usually to check the conditions.
+
+1. if
+2. if else
+3. Nested if
+4. if ladder or elif
+
+*if:
+
+To check the condition alone.
+Syntax:
+
+if (condition):
+	statement
+	
+*else:
+
+Syntax:
+
+else:
+	Statement
+
+*NestedIf:
+
+If block present inside another if 
+
+To check the conditions
+
+*ifladder or elif:
+
+
+
+
